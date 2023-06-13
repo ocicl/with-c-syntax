@@ -1,0 +1,10 @@
+* with-c-syntax
+
+C language syntax in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/y2q-actionman/with-c-syntax.git   |
+| commit  | 19bb38c  |
+| systems | with-c-syntax |
+|---------+-------------------------------------------|
+
